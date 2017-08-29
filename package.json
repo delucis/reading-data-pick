@@ -1,6 +1,6 @@
 {
   "name": "@delucis/reading-data-pick",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "lodash.pick plugin for @delucis/reading-data.",
   "main": "index.js",
   "directories": {
